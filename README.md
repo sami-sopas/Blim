@@ -19,6 +19,12 @@ The project was coded in CodeBlocks 20.03, to use the program, just open the [pr
 
 More information about the project in the [documentation](Documentacion_Blim.pdf)
 
+## Screenshots
+![image](https://github.com/sami-sopas/Blim/assets/99571985/bf4f2c7b-15c4-4e77-96ed-50894ebedd3b)  
+
+![image](https://github.com/sami-sopas/Blim/assets/99571985/b9a84ef5-c14d-4513-b343-6798a5dfa3b2)
+
+
 ## Authors
 
 - [@sami-sopas](https://www.github.com/sami-sopas)
