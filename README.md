@@ -17,7 +17,7 @@ The implementation was coded with an object-oriented approach and has two interf
 
 The project was coded in CodeBlocks 20.03, to use the program, just open the [project file](docs/CONTRIBUTING.md)
 
-More information about the project in the [documentation](Documentacion_Blim)
+More information about the project in the [documentation](Documentacion_Blim.pdf)
 
 ## Authors
 
