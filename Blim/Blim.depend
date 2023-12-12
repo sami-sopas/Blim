@@ -1,0 +1,166 @@
+# depslib dependency file v1.0
+1669020195 source:c:\users\ramir\onedrive\escritorio\blim\main.cpp
+	<iostream>
+	"User.h"
+	"Animations.h"
+
+1668798829 source:c:\users\ramir\onedrive\escritorio\blim\history.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<vector>
+
+1668797005 source:c:\users\ramir\onedrive\escritorio\blim\movie.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
+1668798580 source:c:\users\ramir\onedrive\escritorio\blim\payment.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1668798041 source:c:\users\ramir\onedrive\escritorio\blim\playlist.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<vector>
+
+1668797269 source:c:\users\ramir\onedrive\escritorio\blim\serie.cpp
+	<stdlib.h>
+	"iostream"
+	"fstream"
+	"cstring"
+
+1668999273 c:\users\ramir\onedrive\escritorio\blim\user.h
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<string.h>
+	"History.h"
+	"Movie.h"
+	"Payment.h"
+	"Playlist.h"
+	"Serie.h"
+
+1668982422 c:\users\ramir\onedrive\escritorio\blim\history.h
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<vector>
+
+1668974060 c:\users\ramir\onedrive\escritorio\blim\movie.h
+	<iostream>
+	<fstream>
+	<string.h>
+
+1668984821 c:\users\ramir\onedrive\escritorio\blim\payment.h
+	<iostream>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1668980840 c:\users\ramir\onedrive\escritorio\blim\playlist.h
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<vector>
+
+1668911785 c:\users\ramir\onedrive\escritorio\blim\serie.h
+	<stdlib.h>
+	"iostream"
+	"fstream"
+	"cstring"
+
+1669823932 c:\users\ramir\onedrive\escritorio\blim\animations.h
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+	<iostream>
+	"Date.h"
+
+1668876689 c:\users\ramir\onedrive\escritorio\blim\date.h
+	<string>
+	<iostream>
+	<ctime>
+	<vector>
+
+1669020196 source:c:\users\ramir\escritorio\escuela zzz\programas c++\estructura de datos ii janette\blim\main.cpp
+	<iostream>
+	"User.h"
+	"Animations.h"
+
+1668999274 c:\users\ramir\escritorio\escuela zzz\programas c++\estructura de datos ii janette\blim\user.h
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<string.h>
+	"History.h"
+	"Movie.h"
+	"Payment.h"
+	"Playlist.h"
+	"Serie.h"
+
+1668982424 c:\users\ramir\escritorio\escuela zzz\programas c++\estructura de datos ii janette\blim\history.h
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<vector>
+
+1668974062 c:\users\ramir\escritorio\escuela zzz\programas c++\estructura de datos ii janette\blim\movie.h
+	<iostream>
+	<fstream>
+	<string.h>
+
+1668984822 c:\users\ramir\escritorio\escuela zzz\programas c++\estructura de datos ii janette\blim\payment.h
+	<iostream>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1668980842 c:\users\ramir\escritorio\escuela zzz\programas c++\estructura de datos ii janette\blim\playlist.h
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<vector>
+
+1668911786 c:\users\ramir\escritorio\escuela zzz\programas c++\estructura de datos ii janette\blim\serie.h
+	<stdlib.h>
+	"iostream"
+	"fstream"
+	"cstring"
+
+1669823934 c:\users\ramir\escritorio\escuela zzz\programas c++\estructura de datos ii janette\blim\animations.h
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+	<iostream>
+	"Date.h"
+
+1668876690 c:\users\ramir\escritorio\escuela zzz\programas c++\estructura de datos ii janette\blim\date.h
+	<string>
+	<iostream>
+	<ctime>
+	<vector>
+
